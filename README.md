@@ -22,7 +22,6 @@
 - 📜 Certificado de Profesionalidad en **Desarrollo y Publicación de Páginas Web**.
 - 💡 Me apasiona crear interfaces web rápidas y modernas, así como desarrollar aplicaciones nativas y arquitecturas backend robustas.
 - 🌱 Siempre construyendo proyectos para seguir puliendo mis habilidades en arquitectura de software y bases de datos.
-- 📫 ¿Quieres contactar conmigo? Escríbeme a: **[tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)** *(o pon aquí tu LinkedIn)*.
 
 ---
 
