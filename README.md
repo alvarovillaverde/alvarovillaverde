@@ -1,4 +1,3 @@
-<!-- Banner animado con efecto escritura -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+%C3%81lvaro+Villaverde+%F0%9F%91%8B;Desarrollador+Multiplataforma+(DAM);Desarrollador+Web+Full+Stack" alt="Typing SVG" />
