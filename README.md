@@ -46,6 +46,17 @@
 
 ---
 
+### 🚀 Proyectos Destacados
+
+#### 🍽️ [Cartas Digitales Villaverde](https://carta-digital-gamma.vercel.app/)
+> Plataforma web comercial diseñada para la digitalización de menús QR en el sector hostelero, optimizada para carga instantánea y conversión directa.
+
+- **Características principales:** Catálogo de 5 modelos de carta con demos interactivas en vivo, sección de casos de éxito reales (como *Restaurante Camping Baltar*), tabla comparativa de planes de pago único y captación de clientes integrada con formulario y WhatsApp directo.
+- **Tecnologías:** `JavaScript` `HTML5` `CSS3` `Vercel`
+- **Enlaces:** [🌐 Ver Web en Vivo](https://carta-digital-gamma.vercel.app/)
+
+---
+
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
